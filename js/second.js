@@ -1,4 +1,8 @@
 function calculateAverage(array) {
-    return array.reduce((acc, item) => acc + item, 0);
+    let acc = 0;
+    for(let i=0; i<array.length; i++){
+        acc += array[i];
+    }
+    return acc/array.length;
 }
 module.exports.average = calculateAverage;

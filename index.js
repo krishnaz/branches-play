@@ -7,7 +7,7 @@ const processedText = getEverySecondLetter(text);
 
 console.log(`Result text is "${processedText}"`);
 
-const array = [1,2,3,4,5,4,5,2,3,0];
+const array = [1,2,3,4,8,4,9,0,3,29];
 const resultAverage = secondLib.average(array);
 
 console.log(`Average of [${array}] is ${resultAverage}`);
