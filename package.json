@@ -1,0 +1,21 @@
+{
+  "name": "branches-play",
+  "version": "1.0.0",
+  "description": "Branch playground project",
+  "main": "index.js",
+  "dependencies": {
+    "flow-bin": "^0.56.0"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.56.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.schibsted.io:konstantin-mitskevich/branches-play.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
