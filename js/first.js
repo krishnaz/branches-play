@@ -10,4 +10,9 @@ function get(text) {
 }
 
 
-module.exports = get;
+function getString(text) {
+    return get(text).join("");
+}
+
+
+module.exports = getString;

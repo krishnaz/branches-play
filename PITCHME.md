@@ -99,9 +99,11 @@ function calculateAverage(array) {
 ```
 
 ---
-<h4 style="margin-top: -100px;">Special case of the previous: You have to/need to work on two tasks sharing the same codebase.</h4>
+<h4 style="margin-top: -100px;">Special case of the previous: You have to/need to work on 
+two tasks sharing the same codebase.</h4>
 
-<div style="font-size: 0.6em;">You finished working on one task/ticket and created PR for that, but it takes time to review. 
+<div style="font-size: 0.6em;">You finished working on one task/ticket and created PR for that, 
+but it takes time to review. 
 In a mean time you decided to work on another task which need to be done in the same codebase and, 
 probably, even based on your previous changes. While working on the second one you’ve got comments 
 for the first PR and need to do some changes there.</div>
